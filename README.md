@@ -16,8 +16,10 @@ AWS credentials configured locally (via AWS CLI).​
 
 Project Structure
 terraform-aws-ec2/
+
 ├── main.tf
 └── README.md
+
 main.tf: Defines the AWS provider and EC2 instance resource.
 
 Usage
